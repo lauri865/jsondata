@@ -1,16 +1,32 @@
 {
     "options": [
         {
-            "text": "Unexpected sentience",
-            "value": "AI-2323"
+            "text": "🔎 out of focus",
+            "value": 1
         },
         {
-            "text": "Bot biased toward other bots",
-            "value": "SUPPORT-42"
+            "text": "⛔️ out of stage",
+            "value": 2
         },
         {
-            "text": "Bot broke my toaster",
-            "value": "IOT-75"
+            "text": "🙈 miss",
+            "value": 3
+        },
+        {
+        	"text": "❌ rejected this round",
+        	"value": 4
+        },
+        {
+        	"text": "❌ rejected an earlier round",
+        	"value": 5
+        },
+        {
+        	"text": "😭 lost",
+        	"value": 6
+        },
+        {
+        	"text": "💰 invested",
+        	"value": 7
         }
     ]
 }
